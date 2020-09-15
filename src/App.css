@@ -1,0 +1,38 @@
+svg{
+  width: 15px;
+  height: 15px;
+  vertical-align: top;
+  margin-right: 5px;
+  fill:rgba(0, 0, 0, 0.65);
+}
+.ant-row{
+  margin:1rem 0;
+}
+
+
+.ant-card-body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.ant-card-bordered{
+  min-width: 200px;
+}
+.ant-card-bordered h1{
+  line-height: 2;
+}
+
+.ant-card-bordered > *{
+  text-align: center;
+}
+
+.user-info h2 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.bio{
+  margin-top: 1rem;
+}
